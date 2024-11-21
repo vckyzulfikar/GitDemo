@@ -40,3 +40,6 @@ dict["lastname"] = "shetty"
 dict["gender"] = "Male"
 
 print(dict)
+
+name = ['vicky','zulfikar']
+print(name[1])
